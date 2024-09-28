@@ -1,5 +1,6 @@
 ### Project will be started after fixing major bugs from the Currency Exchange JavaX Swing Project
 
+
 ## To-be-implemented:
 
 * When the user searches, the concurring elements become invisible, and the search bar expands (the search button becomes 2-way purpose)

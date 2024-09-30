@@ -6,8 +6,8 @@ import javax.swing.JOptionPane;
 // Use Geocoding API to decode location to coordinates, and pass those coordinates to the Weather API
 public class SampleWeatherAPICall {
     public static String getWeatherResponse() {
-        String latitude = null, longtitude = null; // REPLACE WITH ACTUAL COORDINATES
-        String url = "https://api.open-meteo.com/v1/forecast?latitude=" + latitude + "&longitude=" + "&hourly=temperature_2m";
+        String latitude = null, longitude = null; // REPLACE WITH ACTUAL COORDINATES
+        String url = "https://api.open-meteo.com/v1/forecast?latitude=" + latitude + "&longitude=" + longitude + "&hourly=temperature_2m";
         try {
             URL obj = new URL(url);
             HttpsURLConnection connection = (HttpsURLConnection)obj.openConnection();

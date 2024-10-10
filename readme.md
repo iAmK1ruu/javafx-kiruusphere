@@ -37,7 +37,7 @@
 
 ## 🚧 Project Status
 
-## The Currency Converter and this project are simultaneously being developed and maintained. So development will be slower at usual.
+## The Currency Converter and this project are simultaneously being developed and maintained. So development will be slower than usual.
 
 ## 📈 Roadmap
 

@@ -37,7 +37,7 @@
 
 ## 🚧 Project Status
 
-## The project will begin development after resolving key issues in the Currency Exchange Java Swing Project.
+## The Currency Converter and this project are simultaneously being developed and maintained. So development will be slower at usual.
 
 ## 📈 Roadmap
 
